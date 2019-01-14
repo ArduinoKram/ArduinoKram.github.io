@@ -499,9 +499,13 @@ section#intro {
 /* Carousel Styles */
 .carousel-inner img {
   width: 100%;
+  opacity: 0.4;
   max-height: 650px;
+  min-height: 403px;
 }
+#carousel-example-generic {
 
+}
 .carousel-control {
   width: 0;
 }
